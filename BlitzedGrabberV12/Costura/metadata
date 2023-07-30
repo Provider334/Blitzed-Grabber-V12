@@ -1,0 +1,8 @@
+costura.apifor.dll.compressed|1.0.4.0|APIFOR, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null|APIFOR.DLL|BA496C122F8E562FF0A4FB272A68F0B9E7BF0A3C|13824
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.dnlib.dll.compressed|3.3.2.0|dnlib, Version=3.3.2.0, Culture=neutral, PublicKeyToken=50e96378b6e77999|dnlib.dll|FC32CCCD0CD5C3EBD968BCDF48E32A7EA25E9BD7|1147392
+costura.guna.ui2.dll.compressed|2.0.1.2|Guna.UI2, Version=2.0.1.2, Culture=neutral, PublicKeyToken=null|Guna.UI2.dll|7E4B5C367183F4753A8D610E353C458C3DEF3888|2022568
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|B664DEB3473DB289C27311263435524284387F3A|701480
+costura.sharpconfigparser.dll.compressed|1.0.0.0|SharpConfigParser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|SharpConfigParser.dll|5005720E6D0FD76CCD7B8C799C9A4C17C6DF2E77|4608
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760

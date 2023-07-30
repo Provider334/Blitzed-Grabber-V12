@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlitzedGrabberV12", "BlitzedGrabberV12\BlitzedGrabberV12.csproj", "{33F2865A-9357-4A9E-ABC8-ABB51972218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F2865A-9357-4A9E-ABC8-ABB51972218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F2865A-9357-4A9E-ABC8-ABB51972218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F2865A-9357-4A9E-ABC8-ABB51972218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F2865A-9357-4A9E-ABC8-ABB51972218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
